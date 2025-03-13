@@ -3,5 +3,3 @@ beautifulsoup4
 pandas
 numpy
 tensorflow
-gradio
-re

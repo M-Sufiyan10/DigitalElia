@@ -1,0 +1,5 @@
+myenv
+.vscode/
+__pycache__/
+*.pkl
+*.h5
