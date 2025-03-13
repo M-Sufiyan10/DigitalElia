@@ -19,8 +19,8 @@ def load_tokenizer(path):
         return pickle.load(f)
 
 
-path="/home/sufi/Downloads/roman_urdu_poetry_model(1).h5"
-tokenizer_path="/home/sufi/Downloads/tokenizer(1).pkl"
+path="roman_urdu_poetry_model(1).h5"
+tokenizer_path="tokenizer(1).pkl"
 model = load_trained_model(path)
 tokenizer = load_tokenizer(tokenizer_path)
 
